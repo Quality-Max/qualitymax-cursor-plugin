@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "qualitymax-hosted": {
+      "url": "https://app.qualitymax.io/api/mcp/"
+    }
+  }
+}
