@@ -1,0 +1,13 @@
+{
+  "name": "qualitymax",
+  "version": "0.1.0",
+  "description": "Investigate failed Playwright runs in Cursor using QualityMax execution results, logs, and artifacts.",
+  "author": {
+    "name": "QualityMax"
+  },
+  "homepage": "https://qualitymax.io",
+  "repository": "https://github.com/Quality-Max/qualitymax-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["playwright", "test automation", "failure triage", "mcp"],
+  "logo": "assets/qualitymax.png"
+}
